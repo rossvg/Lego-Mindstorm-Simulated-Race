@@ -4,7 +4,7 @@ First year C project at Queen's University. Programmed a Lego Mindstorm EV3 to a
 # Setup
 Requires a Lego Mindstorm EV3, two EV3 bumper sensors, EV3 colour sensor, and DBA sound sensor at the following ports:
 
-SensorType[S1] = sensorEV3_Touch
+SensorType[S1] = sensorEV3_Touch \n
 SensorType[S4] = sensorEV3_Touch
 SensorType[S3] = sensorEV3_Color
 SensorType[S2] = sensorSoundDBA
